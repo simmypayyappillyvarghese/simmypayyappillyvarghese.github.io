@@ -10885,7 +10885,7 @@ body {
  height:280px;
 }
 
-#project-1,#project-2,#prokect-3 {
+#project-0,#project-1,#project-2,#prokect-3 {
   font-size: 1rem;
 }
 
@@ -10900,7 +10900,7 @@ body {
 }
 
  
- #project-1 .tech-tag,#project-2 .tech-tag,#project-3 .tech-tag,.project .tech-tag{
+#project-0 .tech-tag,#project-1 .tech-tag,#project-2 .tech-tag,#project-3 .tech-tag,.project .tech-tag{
 
   color: #fff;
   font-size: 0.89rem;
